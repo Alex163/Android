@@ -26,6 +26,7 @@
   <project path="device/advent/vega" name="CyanogenMod/android_device_advent_vega" revision="gingerbread" remote="github" />
   <project path="device/htc/common" name="CyanogenMod/android_device_htc_common" revision="gingerbread" remote="github" />
   <project path="device/htc/ace" name="CyanogenMod/android_device_htc_ace" revision="gingerbread" remote="github" />
+  <project path="device/zte/blade" name="CyanogenMod/android_device_zte_blade" revision="gingerbread" remote="github" />
   <project path="device/common" name="device/common" />
   <project path="external/alsa-lib" name="CyanogenMod/android_external_alsa-lib" revision="gingerbread" remote="github" />
   <project path="external/alsa-utils" name="CyanogenMod/android_external_alsa-utils" revision="gingerbread" remote="github" />
